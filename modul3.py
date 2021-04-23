@@ -13,3 +13,5 @@ for shop, products in shopping_list.items():
     print(f"Idę do {shop.capitalize()} i kupuję tam: {Products}")
     number_of_products.append(len(products))
 print("W sumie kupuję " + str(sum(number_of_products))+" produktów")
+
+print("zadanie zakończone!........test")
